@@ -27,7 +27,7 @@ When tests fail, however, the team has to spend time investigating before the PR
 Because of this, we cannot merge any PRs that would break an existing project. If a PR has extensive
 failures, it may be put on the backburner until the team can schedule time to debug the full extent
 of the issue. If a PR seems ready to merge, but has been inactive, it has very likely
-encountered some test failures inside Google that must be resovled first.
+encountered some test failures inside Google that must be resolved first.
 
 ## Why aren't you working on _X_?
 
@@ -57,10 +57,9 @@ The Angular team is now working with the MDC team to share more code to reduce d
 end, we are developing new, API-compatible versions of the Angular Material components backed by
 MDC Web. [See @jelbourn's 2019 ng-conf talk](https://youtu.be/4EXQKP-Sihw?t=891) for more details.
 
-
 [flex-layout]: https://github.com/angular/flex-layout/
-[StackOverflow]: https://stackoverflow.com
-[Gitter]: https://gitter.im/angular/material2
+[stackoverflow]: https://stackoverflow.com
+[gitter]: https://gitter.im/angular/material2
 [labels]: https://github.com/angular/components/labels
 [monorepo]: https://ai.google/research/pubs/pub45424/
-[MDC Web]: https://github.com/material-components/material-components-web/
+[mdc web]: https://github.com/material-components/material-components-web/
